@@ -1,0 +1,3 @@
+#!/bin/bash
+g acm -This command adds your file and commits it.
+For instance,g acm My first commit would add your file and commit it as 'My first commit' 
